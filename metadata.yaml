@@ -1,0 +1,43 @@
+_repo: Corbalin-vihkiaiset-b-Romaani-Ranskan-vallankumouksen-ajoilta_72739
+_version: 0.0.1
+alternative_title: The nuptials of Corbal. Finnish
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: https://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2024-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72739'
+language: fi
+pgterms:marc905: 20240116090248sabatini
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'Nobility -- France -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- France -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Corbalin vihkiäiset : $b Romaani Ranskan vallankumouksen ajoilta'
+url: http://www.gutenberg.org/ebooks/72739
